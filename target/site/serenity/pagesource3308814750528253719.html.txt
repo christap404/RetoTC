@@ -1,0 +1,712 @@
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlightStatus</title>
+    <link href="/FlightStatus/Content/css?v=bCaJgEpZHNg0AhA2NyMdS-P6J5Jui1bSSd98ON881Fc1" rel="stylesheet">
+
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/dc05ba20/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://d1mj578wat5n4o.cloudfront.net/boxever-1.4.6.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" charset="utf-8" src="//sleeknotecustomerscripts.sleeknote.com/9737.js"></script><script src="//www.youtube.com/iframe_api"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PDK6GW&amp;l=gtmDt"></script><script src="/FlightStatus/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <script type="text/javascript" src="/FlightStatus/FlightStatus/GetAnalitics?idioma=es&amp;pais=CO"></script>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato">
+    <link rel="icon" type="image/x-icon" href="/FlightStatus/img/favicon.ico">
+<script>NS_CSM_td=880300987;NS_CSM_pd=275116665;NS_CSM_u="/clm10";NS_CSM_col="af_collector_10.224.9.20";</script><script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_col;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script>
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"true","rua.cpush":"false","rua.upre":"true","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-37433251-d728-4e67-be11-5940308e894f","rua.cook":"true","rua.ims":"false","rua.ufprl":"true","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="M4YV3-NXZPK-WJ57Z-T6SWV-RM4P2",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"M4YV3-NXZPK-WJ57Z-T6SWV-RM4P2";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="true"=="true"?1:0,t="cookiepresent",a="uxq55xixful62ynxxima-f-33cc55c77-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"32","ak.cp":"527013","ak.ai":parseInt("340874",10),"ak.ol":"0","ak.cr":6,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1172373a","ak.r":35135,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"190.240.140.0","ak.cport":1529,"ak.gh":"184.28.209.44","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1639430680","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==YdfwDYpN8T+vPK7KKUuNapxRktmo2NI9zab/5+bxTZNilKJqWDb+9gRFgx7yYaHuumvwvpAryQXiUrP6pxY1pefmRVwPgtMDFXFj0s7/pzHL4uCSUli9DmfoT9rkSq9EHYUwPPrgEnUSdrqXr2QXxQ9gNXqrkGYEJ9Udp4UcVMYs6VuMmm1acNgfaWL4rxgqxOQIWDN5hHrHe5dORDew8StSzsbOsIBG2BpgFqWk/mIMwxHLx6JY78CGY/A/lKAlV9h5Kf1keCcUQnCMCsTwf7f8E4YtFLMwmENYdW5s4r/SOpBjyeRl6ikFqfoGeG/PYKct1Pbgr6poOiN6oKGS98Rq/h2Sss9sG82mS9bwwleCycRcoYAVng0nzJJS6nkeh78TEKKQ0DtjaqJJtwigP7xiGD3WIYfh9V8hnQhXVRs=","ak.pv":"398","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="https://s.go-mpulse.net/boomerang/M4YV3-NXZPK-WJ57Z-T6SWV-RM4P2" rel="preload" as="script"><script src="https://bat.bing.com/p/action/48000035.js" type="text/javascript" async="" data-ueto="ueto_fb368a0370"></script><script type="text/javascript" src="https://d35vb5cccm4xzp.cloudfront.net/web-flow-libs/avimxiEoacM77RCeBfqI2ad8PfiLuPh9/version.min.js" async=""></script><script type="application/javascript" id="boxever-web-flows-version" src="https://d35vb5cccm4xzp.cloudfront.net/web-flow-libs/avimxiEoacM77RCeBfqI2ad8PfiLuPh9/136/lib.min.js" async="" defer=""></script><script id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/M4YV3-NXZPK-WJ57Z-T6SWV-RM4P2" async=""></script><script src="//sleeknotestaticcontent.sleeknote.com/core.js"></script><link id="dnsprefetchlink" rel="dns-prefetch" href="//uxq55xixful62ynxxima-f-33cc55c77-clientnsv4-s.akamaihd.net"><script src="https://sleeknotestaticcontent.sleeknote.com/production/package-core-boot.js" async=""></script><script src="https://sleeknotestaticcontent.sleeknote.com/production/package-tracker.js" async=""></script></head>
+<body>
+    <nav class="justify-content-between header-container">
+        <div id="headerIcon" class="header">
+            <div id="divIdioma" class="header-language">
+                <div id="hoverLang" class="select select-language">
+    <div class="select-icon"></div>
+    <div class="language-List">
+        <select id="Languagelist" onchange="ChangeLanguage(this.value)">
+            <option value="ES" selected="">Español</option>
+            <option value="EN">Inglés</option>
+            <option value="PT">Portugués</option>
+        </select>
+    <div class="List-selected">Español</div><div id="divListOptions" class="select-langs select-hide"><div id="divOption0" class="same-as-selected selectedOpcStart">Español</div><div id="divOption1" class="">Inglés</div><div id="divOption2" class="">Portugués</div></div></div>
+</div>
+
+<script src="/FlightStatus/Scripts/LanguageList.js"></script>
+            </div>
+        </div>
+    </nav>
+    <div id="divContenido">
+        
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" type="text/css" href="/FlightStatus/Content/Style.css">
+<link rel="stylesheet" type="text/css" href="/FlightStatus/Content/calendar.css">
+<link rel="stylesheet" type="text/css" href="/FlightStatus/Content/calendar-mobile.css">
+<link rel="stylesheet" type="text/css" href="/FlightStatus/Content/ListCalendar.css">
+<link rel="stylesheet" type="text/css" href="https://www.avianca.com/apps/avianca/clientlibs/clientlib-site/less/animate.less">
+
+<div id="divContainerData" class="containerData">
+
+    <div class="container title-container">
+        <div class="title-principal">
+            <label>Estado de vuelo</label>
+        </div>
+        <div class="title-secondary">
+            <label>Consulta el estado de tu vuelo diligenciando los siguientes campos</label>
+        </div>
+    </div>
+
+    <div class="container form-container" data-x-controller="flights">
+        <div class="cont-radiobtn" role="radiogroup">
+            <div class="radiobtn">
+                <input type="radio" id="FlightRadio" name="radio">
+                <label class="radio-label" for="FlightRadio"> Número de vuelo </label>
+            </div>
+            <div class="radiobtn">
+                <input type="radio" id="RouteRadio" name="radio">
+                <label class="radio-label" for="RouteRadio"> Ruta </label>
+            </div>
+            <input type="hidden" id="hdfRadio" value="f">
+        </div>
+        <form id="formSearchFlight">
+            <div id="divData">
+                <div id="container-input" class="row align-items-center">
+                    <!--Data-->
+                    <div>
+                        <!--FlightNumber-->
+                        <div id="FlightOption" class="txt-container-flight show">
+                            <div class="form-group new-animate new-focus">
+                                <label for="flightNumber">
+                                    Número de vuelo
+                                    <div class="row-input right">
+                                        <div class="txt-flightNumber">
+                                            <input type="text" id="flightNumber" name="flightNumber" class="form-control txt-form form-textbox txt-flight" title="" tabindex="1" maxlength="4">
+                                        </div>
+                                    </div>
+                                </label>
+                            </div>
+                        </div>
+
+                        <!--Route-->
+                        <div id="RouteOption" class="hide">
+                            <input type="hidden" id="dataCities">
+                            <div class="txt-container-route">
+                                <div class="form-group new-animate">
+                                    <label class="form-control-placeholder" for="flightFrom">
+                                        Desde
+                                        <div class="row-input right">
+                                            <div id="divFlightFrom" class="autocomplete">
+                                                <div class="txt-city">
+                                                    <input type="text" id="flightFrom" class="form-control txt-form txt-route" tabindex="1">
+                                                </div>
+                                            </div>
+                                            <input class="name_airport" name="dataFrom" type="hidden" id="dataFrom" value="">
+                                            <span class="text airport-text calendar-icon span-text" id="fromShow"></span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="txt-container-route">
+                                <div class="form-group new-animate">
+                                    <label class="form-control-placeholder" for="flightTo">
+                                        Hacia
+                                        <div class="row-input right">
+                                            <div id="divFlightTo" class="autocomplete">
+                                                <div class="txt-city">
+                                                    <input type="text" id="flightTo" class="form-control txt-form form-textbox txt-route" title="" tabindex="1" list="citiesTo">
+                                                </div>
+                                            </div>
+                                            <input class="name_airport" name="dataTo" type="hidden" id="dataTo" value="">
+                                            <span class="text airport-text calendar-icon span-text" id="toShow"></span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Dates-->
+                        <div id="flightDates" class="txt-container-flight">
+                            <input class="name_date_iso" id="flightDateFISO" name="flightDateFISO" type="hidden" value="2021-12-13">
+                            <div class="form-group new-animate new-focus">
+                                <label for="flightDate" class="bold setDateFlight" id="DateRuta">
+                                    Fecha de viaje
+                                    <div id="selectDates" class="custom-select select-datesF">
+                                        <select id="selectedDate">
+                                                    <option value="2021-12-10">Vie , 10 Diciembre</option>
+                                                    <option value="2021-12-11">Sáb , 11 Diciembre</option>
+                                                    <option value="2021-12-12">Dom , 12 Diciembre</option>
+                                                    <option value="2021-12-13">Lun , 13 Diciembre</option>
+                                                    <option value="2021-12-14">Mar , 14 Diciembre</option>
+                                                    <option value="2021-12-15">Mié , 15 Diciembre</option>
+                                                    <option value="2021-12-16">Jue , 16 Diciembre</option>
+                                                    <option value="2021-12-17">Vie , 17 Diciembre</option>
+                                                    <option value="2021-12-18">Sáb , 18 Diciembre</option>
+                                                    <option value="2021-12-19">Dom , 19 Diciembre</option>
+                                        </select>
+                                    <div id="divDates" class="select-selected calendarF">Lun , 13 Diciembre</div><div class="select-items select-hide"><div>Vie , 10 Diciembre</div><div>Sáb , 11 Diciembre</div><div>Dom , 12 Diciembre</div><div>Lun , 13 Diciembre</div><div>Mar , 14 Diciembre</div><div>Mié , 15 Diciembre</div><div>Jue , 16 Diciembre</div><div>Vie , 17 Diciembre</div><div>Sáb , 18 Diciembre</div><div>Dom , 19 Diciembre</div></div></div>
+                                </label>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!--Button-->
+                    <div id="flightButton" class="txt-container-flight buttonFlight">
+                        <div class="button-container">
+                            <button type="button" id="searchFlight">
+                                Consultar
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="container" id="flightRoute">
+    <div id="divCardsContainer">
+
+<script src="/FlightStatus/Scripts/jquery-3.4.1.min.js"></script>
+<script src="/FlightStatus/Scripts/bootstrap.min.js"></script>
+<script src="/FlightStatus/Scripts/buttons.js"></script>
+<script src="/FlightStatus/Scripts/actions.js"></script>
+<link rel="stylesheet" type="text/css" href="/FlightStatus/Content/Style.css">
+<link rel="stylesheet" type="text/css" href="/FlightStatus/Content/Card.css">
+
+<div id="divCards" class="cards-container">
+            <div id="divCardContainer" class="card-fligth-container">
+                <div id="cardBorder" class="card-fligth-border flightstatus-other-card-border "></div>
+                <div id="cardFlightNumber" class="card-fligth-number">
+                    <div class="card-fligth-number-data">
+                        <label>
+                            AV9238
+                        </label>
+                    </div>
+                </div>
+                <div id="cardStatus" class="card-fligth-status">
+                    <div class="card-fligthstatus flightstatus-other-card">
+                        <div class="card-status">
+                            <label>
+                                ATERRIZÓ
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-fligth-data">
+                    <div id="cardAirline" class="card-fligth-airline">
+                        <label>
+                            Operado por  Avianca
+                        </label>
+                    </div>
+                    <div id="cardFlightFrom" class="card-fligth-from">
+                        <div id="divCodeIataFrom">
+                            <label class="fligth-label-iata">
+                                CLO
+                            </label>
+                        </div>
+                        <div id="divCityFrom">
+                            <label class="fligth-label-city">
+                                Cali
+                            </label>
+                        </div>
+                    </div>
+                    <div id="cardIcon" class="card-fligth-icon">
+                        <div class="fligth-icon">
+                            <div class="fligth-icon-point-one"></div>
+                            <div class="fligth-icon-line"> </div>
+                            <div class="fligth-icon-airplane"></div>
+                            <div class="fligth-icon-point-two"></div>
+                        </div>
+                    </div>
+                    <div id="cardFlightTo" class="card-fligth-to">
+                        <div id="divCodeIataTo">
+                            <label class="fligth-label-iata">
+                                MDE
+                            </label>
+                        </div>
+                        <div id="divCityTo">
+                            <label class="fligth-label-city">
+                                Medellín
+                            </label>
+                        </div>
+                    </div>
+                    <div id="cardDeparture" class="card-fligth-departure">
+                        <div class="form-group">
+                            <div>
+                                <div class="scheduled-title">
+                                    <label class="fligth-scheduled-title">Salida prevista:</label>
+                                </div>
+                            </div>
+                            <div class="departure-scheduled-hour">
+                                <label class="fligth-scheduled">
+                                    14:22
+                                </label>
+                            </div>
+                            <div class="departure-confirmed-title">
+                                <div class="confirmed-title0">
+                                    <label class="fligth-confirmed-title">Salida confirmada:</label>
+                                </div>
+                            </div>
+                            <div class="departure-confirmed-hour">
+                                <label class="fligth-confirmed">
+                                    15:02
+                                </label>
+                                <label class="fligth-confirmed-day fligth-confirmed-dayEmpty">
+                                     + 0 día
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="cardArrive" class="card-fligth-arrive">
+                        <div class="form-group">
+                            <div class="arrive-title">
+                                <div class="scheduled-title">
+                                    <label class="fligth-scheduled-title">Llegada prevista:</label>
+                                </div>
+                            </div>
+                            <div class="arrive-scheduled-hour">
+                                <label class="fligth-scheduled">
+                                    15:15
+                                </label>
+                                <label class="fligth-confirmed-day fligth-confirmed-dayEmpty">
+                                     + 0 día
+                                </label>
+                            </div>
+                            <div class="arrive-confirmed-title">
+                                <div class="confirmed-title">
+                                    <label class="fligth-confirmed-title">Llegada confirmada:</label>
+                                </div>
+                            </div>
+                            <div class="arrive-confirmed-hour">
+                                <label class="fligth-confirmed">
+                                    15:49
+                                </label>
+                                <label class="fligth-confirmed-day fligth-confirmed-dayEmpty">
+                                     + 0 día
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="divAirportFrom" class="card-fligth-airfrom card-fligth-airfrom-day">
+                        <label class="fligth-label-airport">
+                            Aeropuerto Alfonso Bonilla Aragón
+                        </label>
+                    </div>
+                    <div id="divAirportTo" class="card-fligth-airto ">
+                        <label class="fligth-label-airport">
+                            Aeropuerto Jose Maria Cordoba
+                        </label>
+                    </div>
+                </div>
+            </div>
+</div>    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://www.avianca.com/apps/avianca/clientlibs/vendor/jquery-x.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://www.avianca.com/apps/avianca/clientlibs/vendor/moment.min.js"></script>
+<script src="https://www.avianca.com/apps/avianca/clientlibs/clientlib-site/js/animations.js"></script>
+<script src="/FlightStatus/Scripts/ListCalendar.js"></script>
+<script src="/FlightStatus/Scripts/animate.js"></script>
+<script src="/FlightStatus/Scripts/buttons.js"></script>
+<script src="/FlightStatus/Scripts/actions.js"></script>
+
+<script type="text/javascript">
+
+    $(document).ready(function ()
+    {
+        $("#searchFlight").click(function ()
+        {
+            if (validateFields())
+            {
+                return;
+            }
+            GetFlightStatus();
+        });
+        GetCities();
+        execute();
+    });
+
+    function GetCities() {
+        var params = new URLSearchParams(document.location.href);
+        var opc = params.get('idioma');
+        $.ajax({
+          url: '/FlightStatus/FlightStatus/GetCities',
+          type: 'POST',
+            data: { language: opc },
+              success: function (result)
+              {
+                  autocomplete(document.getElementById("flightFrom"), JSON.parse(result));
+                  autocomplete(document.getElementById("flightTo"), JSON.parse(result));
+              },
+            error: function (errorThrown) {
+                alert(errorThrown);
+            }
+        });
+    }
+
+    function autocomplete(inp, arr) {
+
+            var currentFocus;
+            inp.addEventListener("input", function (e) {
+                var a, b, i, val = this.value;
+                closeAllLists();
+                if (!val) { return false; }
+                currentFocus = -1;
+                a = document.createElement("DIV");
+                a.setAttribute("id", this.id + "autocomplete-list");
+                a.setAttribute("class", "autocomplete-items");
+                this.parentNode.appendChild(a);
+
+                for (i = 0; i < arr.length; i++) {
+                    var datos = arr[i];
+
+                    if (datos.Nombre.toLocaleLowerCase().indexOf(val.toLocaleLowerCase()) >= 0)
+                    {
+                        b = document.createElement("DIV");
+                        var datos1 = datos.Nombre.split(',')[0] + " (" + (datos.Nombre.split('(')[1]);
+
+                        b.innerHTML = "<strong>" + datos1 + "</strong> <br>";
+                        b.innerHTML += "<label class='labelautocomplete'>" + datos.Nombre.split(',')[1].split('(')[0] + "</label>";
+
+                        b.addEventListener("click", function (e)
+                        {
+                            var datos = e.currentTarget.innerHTML.split(')')[0];
+                            var city = datos.split('(')[0].trim();
+                            city = city.substr(8, city.length);
+                            var iata = datos.split('(')[1].trim();
+                            inp.value = city.trim();
+
+                            if (inp.id === "flightFrom") {
+                                $("#fromShow").text(iata);
+                                $("#dataFrom").val(iata);
+                            }
+                            else {
+                                $("#toShow").text(iata);
+                                $("#dataTo").val(iata);
+                            }
+
+                            i = arr.length;
+
+                            closeAllLists();
+                        });
+
+                        a.appendChild(b);
+                    }
+                }
+
+            });
+
+            inp.addEventListener("keydown", function (e) {
+                var x = document.getElementById(this.id + "autocomplete-list");
+                if (x) x = x.getElementsByTagName("div");
+                if (e.keyCode == 40) {
+                    currentFocus++;
+                    addActive(x);
+                } else if (e.keyCode == 38) {
+                    currentFocus--;
+                    addActive(x);
+                } else if (e.keyCode == 13) {
+                    e.preventDefault();
+                    if (currentFocus > -1) {
+                        if (x) x[currentFocus].click();
+                    }
+                }
+            });
+
+            function addActive(x) {
+                if (!x) return false;
+                removeActive(x);
+                if (currentFocus >= x.length) currentFocus = 0;
+                if (currentFocus < 0) currentFocus = (x.length - 1);
+                x[currentFocus].classList.add("autocomplete-active");
+            }
+
+            function removeActive(x) {
+                for (var i = 0; i < x.length; i++) {
+                    x[i].classList.remove("autocomplete-active");
+                }
+            }
+
+            function closeAllLists(elmnt) {
+                var x = document.getElementsByClassName("autocomplete-items");
+                for (var i = 0; i < x.length; i++) {
+                    if (elmnt != x[i] && elmnt != inp) {
+                        x[i].parentNode.removeChild(x[i]);
+                    }
+                }
+            }
+
+            document.addEventListener("click", function (e) {
+                closeAllLists(e.target);
+            });
+        }
+
+    function GetFlightStatus() {
+
+        var fDate = $('#RouteRadio')[0].checked ? $('#flightDateFISO').val() : $('#flightDateFISO').val();
+        var type = 'Flight';
+        var initialDate = fDate;
+        var from = $('#RouteRadio')[0].checked ? $('#dataFrom').val() : "";
+        var to = $('#RouteRadio')[0].checked ? $('#dataTo').val() : "";
+        var flightNumber = $('#FlightRadio')[0].checked ? $('#flightNumber').val() : "";
+        var params = new URLSearchParams(document.location.href);
+        var language = params.get('idioma');
+        var country = params.get('pais');
+        var radio = $('#RouteRadio')[0].checked ? "r" : "f";
+        $.ajax({
+            url: '/FlightStatus/FlightStatus/GetFlightStatus',
+            type: 'POST',
+            data: {
+                "initDate": initialDate,
+                "type": type,
+                "from": from,
+                "to": to,
+                "flightNumber": flightNumber,
+                "language": language,
+                "country": country
+            },
+            success: function (partialViewResult) {
+                var Jview = JSON.parse(partialViewResult);
+                ShowData(Jview.data);
+                ShowDataRoutes(Jview.routes);
+                showRoute();
+                SetRadio(radio);
+                analiticsPush();
+                setURLParams();
+            },
+            error: function () {
+                console.log("Error");
+            }
+        });
+    }
+
+    function ChangeLanguage(lang)
+    {
+
+        $.ajax({
+            url: '/FlightStatus/FlightStatus/ChangeLanguage',
+            type: 'POST',
+            data: { language: lang },
+            success: function (result)
+            {                
+                var params = new URLSearchParams(window.location.search);                
+                params.set("idioma", lang);
+                params.append("changeLanguage", true);
+                
+                history.replaceState(null, null, "?" + params.toString());
+                setURLParams();
+                location.reload();
+            },
+            complete: anliticsPushChangeLanguage(lang)
+        });
+    }
+
+    function analiticsPush() {
+        var fDate = $('#RouteRadio')[0].checked ? $('#flightDateFISO').val() : $('#flightDateFISO').val();
+        const statusParamVar = getStatusParam();
+        gtmDt.push({
+            event: 'flightItneraryService',
+            statusMethod: $('#RouteRadio').is(':checked') ? 'Route' : 'Number',  // Route or Number
+            statusParam: statusParamVar, // Route or Flight Number
+            serviceShowed: 'Estado Vuelo', // "Estado Vuelo" or "Consulta Itinerario"
+            statusDate: fDate
+        });
+    }
+
+    const getStatusParam = () => {
+        if ($('#RouteRadio').is(':checked')) {
+            const route = $('#fromShow').text() + '-' + $('#toShow').text();
+            return route;
+        }
+        return $('#flightNumber').val();
+    }
+
+    const validateFields = () => {
+        var error = false;
+        if ($('#RouteRadio').is(':checked')) {
+            if (!$('#flightFrom').val()) {
+                error = true;
+                $('#divFlightFrom').addClass("error");
+            }
+            if (!$('#flightTo').val()) {
+                error = true;
+                $('#divFlightTo').addClass("error");
+            }
+        } else {
+            if (!$('#flightNumber').val()) {
+                error = true;
+                $('#flightNumber').addClass("error");
+            }
+        }
+        return error;
+    }
+
+    $('#flightTo').blur(() => {
+        if ($('#flightTo').val()) {
+            $('#divFlightTo').removeClass("error");
+        } else {
+            $('#divFlightTo').addClass("error");
+            $("#toShow").text('');
+            $("#dataTo").val('');
+        }
+    });
+
+    $('#flightTo').focus(() => {
+        $('#divFlightTo').removeClass("error");
+    });
+
+    $('#flightFrom').blur(() => {
+        if ($('#flightFrom').val()) {
+            $('#divFlightFrom').removeClass("error");
+        } else {
+            $('#divFlightFrom').addClass("error");
+            $("#fromShow").text('');
+            $("#dataFrom").val('');
+        }
+    });
+
+    $('#flightFrom').focus(() => {
+        $('#divFlightFrom').removeClass("error");
+    });
+
+DataParams('f','2021-12-13','lu. 13 dic. 2021','','','','','9238', 'lu. 13 dic.');
+    function setURLParams() {
+        var fDate = $('#flightDateFISO').val();        
+        const params = new URLSearchParams(window.location.search);   
+        
+        if ($('#hdfRadio').val() === "r") {            
+            params.set("origenEstadoVueloX", $("#flightFrom").val());
+            params.set("origenEstadoVuelo", $("#dataFrom").val());
+            params.set("destinoEstadoVueloX", $("#flightTo").val());
+            params.set("destinoEstadoVuelo", $("#dataTo").val());            
+        }
+        else {            
+            var flightNumber = $('#FlightRadio')[0].checked ? $('#flightNumber').val() : "";
+            params.set("VLO", flightNumber);            
+        }
+        
+        params.set("FEC", fDate); 
+        history.replaceState(null, null, "?" + params.toString());        
+    }    
+
+</script>
+
+<script type="text/javascript">
+
+    const execute = () => {
+        const date = '2021-12-13';
+        $('#flightDateFISO').val(date);
+        $("#selectedDate").val(date);
+        $("#selectedDate").change();
+    }
+
+    const anliticsPushChangeLanguage = (lang) =>
+    {
+        gtmDt.push({
+            event: 'languageChange', // Fixed value for this event
+            newLang: lang // New navigation language
+        });
+    }
+
+    $(window).load(function () {
+        var textDate = $("#selectedDate option:selected").text();
+        $("#divDates").html(textDate);
+
+        var params = new URLSearchParams(window.location.search);
+        var idioma = params.get("idioma", idioma);        
+        $("#divOption0").removeClass();
+        $("#divOption1").removeClass();
+        $("#divOption2").removeClass();
+
+        switch (idioma.toLowerCase()) {
+            case "es":
+                $("#divOption0").addClass("same-as-selected selectedOpcStart");
+                break
+            case "en":
+                $("#divOption1").addClass("same-as-selected");
+                break
+            case "pt":
+                $("#divOption2").addClass("same-as-selected selectedOpcEnd");
+                break
+            default:
+                $("#divOption0").addClass("same-as-selected selectedOpcStart");
+        }
+
+    });
+</script>
+    </div><script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","undefined");fbq("track","PageView");</script><script type="text/javascript" id="" src="//pixel.mathtag.com/event/js?mt_id=undefined&amp;mt_adid=193876&amp;mt_exem=&amp;mt_excl=&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3="></script><script type="text/javascript" id="gtm-youtube-tracking">(function(f,h,k){function m(){var b=[].slice.call(f.getElementsByTagName("iframe")).concat([].slice.call(f.getElementsByTagName("embed"))),a;for(a=0;a<b.length;a++){var d=n(b[a]);if(d){d=b[a];var e=h.location,c=f.createElement("a");c.href=d.src;c.hostname="www.youtube.com";c.protocol=e.protocol;var g="/"===c.pathname.charAt(0)?c.pathname:"/"+c.pathname;-1<c.search.indexOf("enablejsapi")||(c.search=(0<c.search.length?c.search+"\x26":"")+"enablejsapi\x3d1");if(!(-1<c.search.indexOf("origin"))&&-1===
+e.hostname.indexOf("localhost")){var v=e.port?":"+e.port:"";e=e.protocol+"%2F%2F"+e.hostname+v;c.search=c.search+"\x26origin\x3d"+e}"application/x-shockwave-flash"===d.type&&(e=f.createElement("iframe"),e.height=d.height,e.width=d.width,g=g.replace("/v/","/embed/"),d.parentNode.parentNode.replaceChild(e,d.parentNode),d=e);c.pathname=g;d.src!==c.href+c.hash&&(d.src=c.href+c.hash);p(d)}}"addEventListener"in f&&f.addEventListener("load",w,!0)}function n(b){b=b.src||"";return-1<b.indexOf("youtube.com/embed/")||
+-1<b.indexOf("youtube.com/v/")?!0:!1}function p(b){var a=YT.get(b.id);a||(a=new YT.Player(b,{}));"undefined"===typeof b.pauseFlag&&(b.pauseFlag=!1,a.addEventListener("onStateChange",function(a){x(a,b)}))}function y(b){var a={};g.events["Watch to End"]&&(a["Watch to End"]=Math.min(b-3,Math.floor(.99*b)));if(g.percentageTracking){var d=[],e;g.percentageTracking.each&&(d=d.concat(g.percentageTracking.each));if(g.percentageTracking.every){var c=parseInt(g.percentageTracking.every,10),f=100/c;for(e=1;e<
+f;e++)d.push(e*c)}for(e=0;e<d.length;e++)f=d[e],c=f+"%",f=b*f/100,a[c]=Math.floor(f)}return a}function x(b,a){var d=b.data,e=b.target,c=e.getVideoUrl();c=c.match(/[?&]v=([^&#]*)/)[1];var f=e.getPlayerState(),g=Math.floor(e.getDuration()),h=y(g);g={1:"Play",2:"Pause"};g=g[d];a.playTracker=a.playTracker||{};1!==f||a.timer?(clearInterval(a.timer),a.timer=!1):(clearInterval(a.timer),a.timer=setInterval(function(){var b=e,d=h,c=a.videoId,g=b.getCurrentTime(),f;b[c]=b[c]||{};for(f in d)d[f]<=g&&!b[c][f]&&
+(b[c][f]=!0,q(c,f))},1E3));1===d&&(a.playTracker[c]=!0,a.videoId=c,a.pauseFlag=!1);if(!a.playTracker[a.videoId])return!1;if(2===d){if(a.pauseFlag)return!1;a.pauseFlag=!0}r[g]&&q(a.videoId,g)}function q(b,a){var d="https://www.youtube.com/watch?v\x3d"+b,e=h.GoogleAnalyticsObject;if(g.forceSyntax)if("function"===typeof h[e]&&"function"===typeof h[e].getAll&&2!==g.forceSyntax)h[e]("send","event","Videos",a,d);else"undefined"!==typeof h._gaq&&1!==z&&h._gaq.push(["_trackEvent","Videos",a,d]);else google_tag_manager["GTM-PDK6GW"].macro(6).push({event:"youTubeTrack",
+attributes:{videoUrl:d,videoAction:a}})}function t(b,a,d){if(b.addEventListener)b.addEventListener(a,d);else if(b.attachEvent)b.attachEvent("on"+a,function(a){a.target=a.target||a.srcElement;d.call(b,a)});else if("undefined"===typeof b["on"+a]||null===b["on"+a])b["on"+a]=function(a){a.target=a.target||a.srcElement;d.call(b,a)}}function w(b){b=b.target||b.srcElement;var a=n(b);"IFRAME"===b.tagName&&a&&-1<b.src.indexOf("enablejsapi")&&-1<b.src.indexOf("origin")&&p(b)}var g=k||{},z=g.forceSyntax||0,
+r={Play:!0,Pause:!0,"Watch to End":!0},l;k=f.createElement("script");k.src="//www.youtube.com/iframe_api";var u=f.getElementsByTagName("script")[0];u.parentNode.insertBefore(k,u);for(l in g.events)g.events.hasOwnProperty(l)&&(r[l]=g.events[l]);h.onYouTubeIframeAPIReady=function(){var b=h.onYouTubeIframeAPIReady;return function(){b&&b.apply(this,arguments);navigator.userAgent.match(/MSIE [67]\./gi)||("loading"!==f.readyState?m():f.addEventListener?t(f,"DOMContentLoaded",m):t(h,"load",m))}}()})(document,
+window,{events:{Play:!0,Pause:!0,"Watch to End":!0},percentageTracking:{every:25}});</script><script type="text/javascript" id="sleeknoteScript">(function(){var a=document.createElement("script");a.type="text/javascript";a.charset="utf-8";a.src="//sleeknotecustomerscripts.sleeknote.com/9737.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script><script type="text/javascript" id="">(function(b,c,e,f,d){b[d]=b[d]||[];var g=function(){var a={ti:"48000035"};a.q=b[d];b[d]=new UET(a);b[d].push("pageLoad")};var a=c.createElement(e);a.src=f;a.async=1;a.onload=a.onreadystatechange=function(){var b=this.readyState;b&&"loaded"!==b&&"complete"!==b||(g(),a.onload=a.onreadystatechange=null)};c=c.getElementsByTagName(e)[0];c.parentNode.insertBefore(a,c)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><script type="text/javascript" id="" src="https://www.dwin1.com/7529.js"></script><script type="text/javascript" id="">var domain="avianca.com";function getCookie(d){var k=document.cookie.split(";"),h="",f=!1;for(i=0;i<k.length;i++){var l=k[i].split("\x3d");var g=l[0].replace(/^\s+|\s+$/g,"");if(g==d)return 1<l.length&&(h=unescape(l[1].replace(/^\s+|\s+$/g,""))),h}if(!f)return null}function setCookie(d,k,h){var f="";null!=h&&(f=new Date,f.setTime(f.getTime()+864E5*h),f=";expires\x3d"+f.toUTCString());document.cookie=d+"\x3d"+k+f+";domain\x3d."+domain+";path\x3d/"}
+if(("null"==getCookie("run_fs_for_user")||null==getCookie("run_fs_for_user")||"false"==getCookie("run_fs_for_user")||0==getCookie("run_fs_for_user"))&&null==sessionStorage.getItem("fullstory")){console.log("[FullStory] 'run_fs_for_user' is null or false: ",getCookie("run_fs_for_user")," and doesn't exit sessionStorage");var fs_value=Math.floor(101*Math.random());console.log("[FullStory] Random generated: ",fs_value);10>=fs_value?(setCookie("run_fs_for_user",!0),sessionStorage.setItem("fullstory",
+"true"),console.log("[FullStory] Cookie is created")):(setCookie("run_fs_for_user",null),console.log("[FullStory] Cookie is not created"))}
+10>=fs_value&&(window._fs_debug=!1,window._fs_host="fullstory.com",window._fs_script="edge.fullstory.com/s/fs.js",window._fs_org="N3T46",window._fs_namespace="FS",function(d,k,h,f,l,g,a,e){h in d?d.console&&d.console.log&&d.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'):(a=d[h]=function(c,b,m){a.q?a.q.push([c,b,m]):a._api(c,b,m)},a.q=[],g=k.createElement(f),g.async=1,g.crossOrigin="anonymous",g.src="https://"+_fs_script,e=k.getElementsByTagName(f)[0],e.parentNode.insertBefore(g,
+e),a.identify=function(c,b,m){a(l,{uid:c},m);b&&a(l,b,m)},a.setUserVars=function(c,b){a(l,c,b)},a.event=function(c,b,m){a("event",{n:c,p:b},m)},a.anonymize=function(){a.identify(!1)},a.shutdown=function(){a("rec",!1)},a.restart=function(){a("rec",!0)},a.log=function(c,b){a("log",[c,b])},a.consent=function(c){a("consent",!arguments.length||c)},a.identifyAccount=function(c,b){g="account";b=b||{};b.acctId=c;a(g,b)},a.clearUserCookie=function(){},a.setVars=function(c,b){a("setVars",[c,b])},a._w={},e=
+"XMLHttpRequest",a._w[e]=d[e],e="fetch",a._w[e]=d[e],d[e]&&(d[e]=function(){return a._w[e].apply(this,arguments)}),a._v="1.3.0")}(window,document,window._fs_namespace,"script","user"),setCookie("run_fs_for_user",!1));</script><script type="text/javascript" id="">(function(){window._boxever_utils={getDataLayer:function(){if("undefined"!==typeof dataLayerObjName&&window[dataLayerObjName])return window[dataLayerObjName][0];if(window.dataLayer)for(var a=window.dataLayer.length-1;0<=a;a--){if("virtualPageView"===window.dataLayer[a].event)return window.dataLayer[a]}else return{}},getChannel:function(){return"WEB"},getPointOfSale:function(){var a=window._boxever_utils.getDataLayer(),b="avianca.com";a=a.page.navCountry.toLowerCase();return b+"/"+a},getCurrency:function(){var a=
+window._boxever_utils.getDataLayer();return a&&a.ecommerce&&a.ecommerce.currencyCode?a.ecommerce.currencyCode:"COP"},getPageName:function(){return 1<window.location.pathname.split("/").length&&"av"===window.location.pathname.split("/")[1]?"/"+window.location.pathname.split("/").slice(2).join("/"):2<window.location.pathname.split("/").length?"/"+window.location.pathname.split("/").slice(3).join("/"):"unknown"},getLanguage:function(){return window._boxever_utils.getDataLayer().page.navLang.toUpperCase()},
+createEvent:function(a,b){event={channel:window._boxever_utils.getChannel(),type:a,page:google_tag_manager["GTM-PDK6GW"].macro(7),language:window._boxever_utils.getLanguage(),currency:window._boxever_utils.getCurrency(),pos:window._boxever_utils.getPointOfSale(),browser_id:Boxever.getID()};b=b||{};for(key in b)b.hasOwnProperty(key)&&(event[key]=b[key]);"VIEW"===a&&Boxever.addUTMParams(event);return event}};window._boxever_settings={client_key:"avimxiEoacM77RCeBfqI2ad8PfiLuPh9",target:"https://api.boxever.com/v1.2",cookie_domain:".avianca.com",
+javascriptLibraryVersion:"1.4.6",pointOfSale:window._boxever_utils.getPointOfSale(),web_flow_target:"https://d35vb5cccm4xzp.cloudfront.net"};var c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src="https://d1mj578wat5n4o.cloudfront.net/boxever-"+window._boxever_settings.javascriptLibraryVersion+".min.js";var d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(c,d)})();</script><script type="text/javascript" id="">(function(){window._boxeverq=window._boxeverq||[];window._boxeverq.push(function(){var a=window._boxever_utils.createEvent("VIEW");Boxever.eventCreate(a,function(b){},"json")})})();</script><iframe src="https://pixel.mathtag.com/sync/iframe?mt_uuid=ccbf61b7-ba1b-4700-b4f7-60c494c2921b&amp;no_iframe=1&amp;mt_adid=193876&amp;source=mathtag" id="mm_sync_back_ground" title="MediaMath Advertising" style="visibility: hidden; display: none;"></iframe>
+    <footer>
+        <div id="footerContainer">
+    <div class="FooterBox">
+        <div class="footerSeparador">
+            <hr>
+        </div>
+        <div class="row rowFooterIntermedio">
+            <div class="col-sm-9 col-md-9 col-xl-6">
+                <div class="footerInformativo">
+                    <label>¿Necesitas ayuda?</label>
+                </div>
+                <div class="footerInformativo">
+                    <div class="obtenerSoporte">
+                        <img class="verticalCenter mgnR20" src="/FlightStatus/img/chat_bubble.svg">
+                        <label>Puedes contactarnos a través de nuestros <u><a href="https://www.avianca.com/base/es/te-ayudamos/contactanos/" target="_blank">canales de atención.</a></u></label>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3 col-md-3 col-xl-6">
+                <div class="footerIconoStar">
+                    <div class="Sitio-Seguro">
+                        <img src="/FlightStatus/img/secure.svg">
+                        <label>Sitio Seguro</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+
+    </div>
+    <div class="" id="footerDerechos">
+        <div id="footerMensaje" class="page-footer font-small footerMensaje">
+            <div class="footer-copyright text-center py-3 footerMensaje-container">
+                <label>                    
+                    Avianca S.A. - 2021 Copyright © Todos los derechos reservados. NIT 890.100.577-6. RNT 21872
+                </label>
+            </div>
+        </div>
+
+    </div>
+</div>
+    </footer>
+    <script src="/FlightStatus/bundles/bootstrap?v=M4Nk6kIOwMFflsEKET0iPL9i5YBqbzMzvUOrd8gyCnw1"></script>
+
+    
+<script type="text/javascript" src="/5X4uzy/iPXN/Rn/KTSP/B7xWUHHe4ys/i3XYkLX45uE1/FB0BajANQQk/JHA7/AXEuBQYC"></script>
+
+
+<div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon926379511217"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon454313963504" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=48000035&amp;Ver=2&amp;mid=33750a44-7ac3-4e87-aa76-13eac121f607&amp;sid=135380905c5b11ec879e771f761d8447&amp;vid=135438105c5b11ec8140d3b6ee268d4f&amp;vids=0&amp;pi=918639831&amp;lg=en-US&amp;sw=1366&amp;sh=768&amp;sc=24&amp;tl=FlightStatus&amp;p=https%3A%2F%2Fserviciosenlinea.avianca.com%2FFlightStatus%2F%3Fradio%3Don%26origenEstadoVueloX%3D%26origenEstadoVueloCountry%3D%26origenEstadoVuelo%3D%26destinoEstadoVueloX%3D%26destinoEstadoVueloCountry%3D%26destinoEstadoVuelo%3D%26fechaRuta%3DLun%252C%2B13%2Bdiciembre%26fechaNumeroVuelo%3DLun%252C%2B13%2Bdiciembre%26idioma%3Des%26pais%3DCO%26VLO%3D9238%26FEC%3D13%252F12%252F2021&amp;r=https%3A%2F%2Fwww.avianca.com%2F&amp;lt=3205&amp;evt=pageLoad&amp;msclkid=N&amp;sv=1&amp;rn=482300"></div><script type="text/javascript" id="">(function(){try{$(".cookie-msg .remove").click(function(){google_tag_manager["GTM-PDK6GW"].macro(36).push({event:"sendNewCustomEvent",customCategory:"Encabezado",customAction:"Banner Cookie",customLabel:"Cerrar"})})}catch(a){console.log("Detalle:"+a)}})();</script><script type="text/javascript" id="">$(".av-logo").click(function(){google_tag_manager["GTM-PDK6GW"].macro(37).push({event:"sendNewCustomEvent",customCategory:"Encabezado",customAction:"Logo",customLabel:"Avianca"})});</script><script type="text/javascript" id="">$(".menu-vertical .submenu-vertical a").click(function(){google_tag_manager["GTM-PDK6GW"].macro(38).push({event:"sendNewCustomEvent",customCategory:"Menu Lateral",customAction:$(".breadcrumb-enlaces li").eq(1).text().trim(),customLabel:$(this).closest(".acordion-simple").find(".titulo-seccion .texto").text().trim()+" - "+$(this).text().trim()})});
+$(".menu-vertical .titulo-seccion .mascara").click(function(){google_tag_manager["GTM-PDK6GW"].macro(39).push({event:"sendNewCustomEvent",customCategory:"Menu Lateral",customAction:$(".breadcrumb-enlaces li").eq(1).text().trim(),customLabel:$(this).text().trim()})});</script><script type="text/javascript" id="">$("#footer .StartAlliance").click(function(){google_tag_manager["GTM-PDK6GW"].macro(40).push({event:"sendNewCustomEvent",customCategory:"Footer",customAction:"Logo",customLabel:"Star Alliance"})});</script><script type="text/javascript" id="">$("#footer .social li a.adicional").click(function(){google_tag_manager["GTM-PDK6GW"].macro(41).push({event:"sendNewCustomEvent",customCategory:"Footer",customAction:$(this).find("img").attr("alt"),customLabel:$(this).text().trim()})});</script><script type="text/javascript" id="">$("#footer .social li a:not(.adicional)").click(function(){google_tag_manager["GTM-PDK6GW"].macro(42).push({event:"sendNewCustomSocial",customNetwork:$(this).find("img").attr("alt"),customSocialActivity:"Visita Red",customSocialTarget:$(this).attr("href")});google_tag_manager["GTM-PDK6GW"].macro(43).push({event:"sendNewCustomEvent",customCategory:"Footer",customAction:"Social",customLabel:$(this).find("img").attr("alt")})});</script><script type="text/javascript" id="gtm-scroll-tracking">(function(l,m,b){function r(){if(!l.querySelector||!l.body.getBoundingClientRect)return!1;b.dataLayerName=b.dataLayerName||"dataLayer";b.distances=b.distances||{};v();t(m,"scroll",z(v,500))}function w(a,h,d,e,f){var g;for(g=0;g<h.length;g++){var c=parseInt(h[g],10),k="%"!==d?c+f:c/100*e+f;c+=d;k<=e+f&&(a[c]=k)}return a}function x(a,h){a=parseInt(a,10);h/=a;var d=[],e;for(e=1;e<h+1;e++)d.push(e*a);return d}function v(){var a=y(b.bottom),h=y(b.top);var d=l.body;var e=l.documentElement;d=Math.max(d.scrollHeight,
+d.offsetHeight,e.clientHeight,e.scrollHeight,e.offsetHeight);h&&(d-=h);a&&(d=a-(h||0));d-=5;e=h||0;var f=A()||{},g=[],c=[],k;if(b.distances.percentages&&(b.distances.percentages.each&&(g=g.concat(b.distances.percentages.each)),b.distances.percentages.every))for(k=0;k<b.distances.percentages.every.length;k++)g=x(b.distances.percentages.every[k],100),g=c.concat(g);if(b.distances.pixels&&(b.distances.pixels.each&&(c=c.concat(b.distances.pixels.each)),b.distances.pixels.every))for(k=0;k<b.distances.pixels.every.length;k++){var n=
+x(b.distances.pixels.every[k],d);c=c.concat(n)}f=w(f,g,"%",d,e);d=f=w(f,c,"px",d,e);e=void 0!==m.pageXOffset;f="CSS1Compat"===(l.compatMode||"");e=e?m.pageYOffset:f?l.documentElement.scrollTop:l.body.scrollTop;e=parseInt(e,10);f=parseInt;c="CSS1Compat"===l.compatMode?l.documentElement:l.body;c=c.clientHeight;e+=f(c,10);for(var p in d)if(f=d[p],e>f&&!q[p]&&f<(a||Infinity)&&f>(h||0))if(q[p]=!0,f=p,c=m.GoogleAnalyticsObject,"undefined"===typeof m[b.dataLayerName]||b.forceSyntax)if("function"===typeof m[c]&&
+"function"===typeof m[c].getAll&&2!==b.forceSyntax)m[c]("send","event",b.category,f,b.label,{nonInteraction:1});else"undefined"!==typeof m._gaq&&1!==b.forceSyntax&&m._gaq.push(["_trackEvent",b.category,f,b.label,0,!0]);else m[b.dataLayerName].push({event:"scrollTracking",attributes:{distance:f,label:b.label}})}function y(a){if("number"===typeof a||parseInt(a,10))return parseInt(a,10);try{var h=1===a.nodeType?a:l.querySelector(a);return u(h)}catch(d){}}function z(a,h){var d,e,f,g=null,c=0,k=function(){c=
+new Date;g=null;f=a.apply(d,e)};return function(){var n=new Date;c||(c=n);var p=h-(n-c);d=this;e=arguments;0>=p?(clearTimeout(g),g=null,c=n,f=a.apply(d,e)):g||(g=setTimeout(k,p));return f}}function t(a,h,d){if(a.addEventListener)a.addEventListener(h,d);else if(a.attachEvent)a.attachEvent("on"+h,function(e){d.call(a,e)});else if("undefined"===typeof a["on"+h]||null===a["on"+h])a["on"+h]=function(e){d.call(a,e)}}function u(a){a=a.getBoundingClientRect().top;var h=void 0!==m.pageYOffset?m.pageYOffset:
+(l.documentElement||l.body.parentNode||l.body).scrollTop;return a+h}var q={};!b.distances.percentages||!b.distances.percentages.every||b.distances.percentages.every instanceof Array||(b.distances.percentages.every=[b.distances.percentages.every]);!b.distances.pixels||!b.distances.pixels.every||b.distances.pixels.every instanceof Array||(b.distances.pixels.every=[b.distances.pixels.every]);var A=function(a){function h(){var f,g,c;d={};if(a.each)for(c=0;c<a.each.length;c++){var k=a.each[c];q[k]||(f=
+l.querySelector(k))&&(d[k]=u(f))}if(a.every)for(c=0;c<a.every.length;c++){k=a.every[c];var n=l.querySelectorAll(k);if(n.length&&!q[k+":"+(n.length-1)])for(g=0;g<n.length;g++){var p=k+":"+g;q[p]||(f=n[g],d[p]=u(f))}}}if(a){var d={},e=0;h();return function(){var f={},g;e++;10<e&&(h(),e=0);for(g in d)f[g]=d[g];return f}}}(b.distances.elements);"loading"!==l.readyState?r():l.addEventListener?t(l,"DOMContentLoaded",r):t(m,"load",r)})(document,window,{forceSyntax:!1,dataLayerName:dataLayerObjName,distances:{percentages:{every:[25]},
+pixels:{each:[],every:[]},elements:{each:[],every:[]}},top:null,bottom:null,category:"Scroll Tracking",label:document.location.pathname});</script><iframe id="sleeknote-frame" style="display:none!important" aria-hidden="true"></iframe></body></html>

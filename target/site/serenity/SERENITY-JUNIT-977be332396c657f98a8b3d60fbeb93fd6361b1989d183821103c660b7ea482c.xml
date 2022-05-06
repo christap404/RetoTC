@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="as a user want to validate the status of my flight" skipped="0" tests="3" time="0.01" timestamp="2022-04-13 07:26:00"><testcase name="smock test status of flight"><error message="The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver" type="java.lang.IllegalStateException">The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver</error><system-err>The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver
+com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+co.com.tcs.certification.aviancawebtest.utils.DriverWeb.hisBrowser(DriverWeb.java:21)
+co.com.tcs.certification.aviancawebtest.stepdefinitions.Hu3StateFlightStepDefinitions.setUp(Hu3StateFlightStepDefinitions.java:26)
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase><testcase name="consult flight status"><error message="The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver" type="java.lang.IllegalStateException">The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver</error><system-err>The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver
+com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+co.com.tcs.certification.aviancawebtest.utils.DriverWeb.hisBrowser(DriverWeb.java:21)
+co.com.tcs.certification.aviancawebtest.stepdefinitions.Hu3StateFlightStepDefinitions.setUp(Hu3StateFlightStepDefinitions.java:26)
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase><testcase name="consult flight status for number of flight"><error message="The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver" type="java.lang.IllegalStateException">The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver</error><system-err>The driver executable does not exist: /Users/christiantapias/Documents/AW001_AviancaWeb_Test/AviancaWebTest/msedgedriver
+com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+co.com.tcs.certification.aviancawebtest.utils.DriverWeb.hisBrowser(DriverWeb.java:21)
+co.com.tcs.certification.aviancawebtest.stepdefinitions.Hu3StateFlightStepDefinitions.setUp(Hu3StateFlightStepDefinitions.java:26)
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase></testsuite>
